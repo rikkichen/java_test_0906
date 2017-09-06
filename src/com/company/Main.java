@@ -13,6 +13,7 @@ public class Main {
         for(j=0;j<=n;j++)
             sum+=j;
         System.out.println("sum="+sum);
+        System.out.println(1);
 
     }
 }
